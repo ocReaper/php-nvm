@@ -16,6 +16,7 @@ RUN apt update -yqq \
     make \
     openssh-client \
     rsync \
+    jpegoptim \
     -yqq
 
 # Install php extensions
